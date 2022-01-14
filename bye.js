@@ -1,1 +1,1 @@
-const bye = 'bye'
+const bye = "bye bye";
